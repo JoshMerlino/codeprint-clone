@@ -53,7 +53,7 @@
 		"@types/jquery": "^3.5.14",
 		"@types/mini-css-extract-plugin": "2.x.x",
 		"@types/mkdirp": "^1.0.2",
-		"@types/node": "^18.11.11",
+		"@types/node": "^18.11.12",
 		"@types/node-fetch": "2.x.x",
 		"@types/optimize-css-assets-webpack-plugin": "^5.0.5",
 		"@types/prismjs": "^1.26.0",
