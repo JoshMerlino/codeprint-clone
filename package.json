@@ -55,7 +55,7 @@
 		"@types/mkdirp": "^2.0.0",
 		"@types/node": "^20.8.6",
 		"@types/node-fetch": "2.x.x",
-		"@types/optimize-css-assets-webpack-plugin": "^5.0.6",
+		"@types/optimize-css-assets-webpack-plugin": "^5.0.7",
 		"@types/prismjs": "^1.26.2",
 		"@types/react": "^18.2.29",
 		"@types/react-dom": "^18.2.13",
