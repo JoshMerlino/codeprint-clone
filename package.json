@@ -68,7 +68,7 @@
 		"@typescript-eslint/parser": "^4.33.0",
 		"app-manifest-webpack-plugin": "^1.2.0",
 		"babel-loader": "^8.3.0",
-		"classnames": "^2.4.0",
+		"classnames": "^2.5.0",
 		"clean-webpack-plugin": "^4.0.0-alpha.0",
 		"concurrently": "^8.2.2",
 		"copy-webpack-plugin": "^6.4.1",
