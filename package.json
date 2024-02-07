@@ -64,7 +64,7 @@
 		"@types/uuid": "^9.0.8",
 		"@types/webpack": "^5.28.5",
 		"@types/webpack-env": "^1.18.4",
-		"@typescript-eslint/eslint-plugin": "^6.20.0",
+		"@typescript-eslint/eslint-plugin": "^6.21.0",
 		"@typescript-eslint/parser": "^6.21.0",
 		"app-manifest-webpack-plugin": "^1.2.0",
 		"babel-loader": "^9.1.3",
