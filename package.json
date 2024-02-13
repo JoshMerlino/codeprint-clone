@@ -105,7 +105,7 @@
 		"script-loader": "^0.7.2",
 		"terser-webpack-plugin": "^5.3.10",
 		"typescript": "^5.3.3",
-		"typescript-eslint": "0.0.1-alpha.0",
+		"typescript-eslint": "7.0.1",
 		"webpack": "^5.90.1",
 		"webpack-cli": "^5.1.4",
 		"webpack-dev-server": "^5.0.0",
