@@ -104,7 +104,7 @@
 		"resolve-from": "^5.0.0",
 		"script-loader": "^0.7.2",
 		"terser-webpack-plugin": "^5.3.10",
-		"typescript": "^5.4.2",
+		"typescript": "^5.4.3",
 		"typescript-eslint": "7.3.1",
 		"webpack": "^5.90.3",
 		"webpack-cli": "^5.1.4",
