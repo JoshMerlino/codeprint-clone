@@ -50,7 +50,7 @@
 		"@types/cors": "^2.8.17",
 		"@types/express": "^4.17.21",
 		"@types/express-rate-limit": "^6.0.0",
-		"@types/jquery": "^3.5.29",
+		"@types/jquery": "^3.5.30",
 		"@types/mini-css-extract-plugin": "2.x.x",
 		"@types/mkdirp": "^2.0.0",
 		"@types/node": "^20.12.12",
