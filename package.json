@@ -63,7 +63,7 @@
 		"@types/terser-webpack-plugin": "^5.2.0",
 		"@types/uuid": "^9.0.8",
 		"@types/webpack": "^5.28.5",
-		"@types/webpack-env": "^1.18.4",
+		"@types/webpack-env": "^1.18.5",
 		"@typescript-eslint/eslint-plugin": "^7.9.0",
 		"@typescript-eslint/parser": "^7.9.0",
 		"app-manifest-webpack-plugin": "^1.2.0",
